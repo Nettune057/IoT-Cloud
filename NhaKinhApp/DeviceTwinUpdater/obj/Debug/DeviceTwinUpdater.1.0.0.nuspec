@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DeviceTwinUpdater</id>
+    <version>1.0.0</version>
+    <authors>DeviceTwinUpdater</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Code\CS\MainMenu2\DeviceTwinUpdater\bin\Debug\net6.0\DeviceTwinUpdater.runtimeconfig.json" target="lib\net6.0\DeviceTwinUpdater.runtimeconfig.json" />
+    <file src="D:\Code\CS\MainMenu2\DeviceTwinUpdater\bin\Debug\net6.0\DeviceTwinUpdater.dll" target="lib\net6.0\DeviceTwinUpdater.dll" />
+  </files>
+</package>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainMenu2", "MainMenu2\MainMenu2.csproj", "{867F6CC3-D900-4C81-9414-DF6BBCA55B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceTwinUpdater", "DeviceTwinUpdater\DeviceTwinUpdater.csproj", "{03F75B69-818F-493C-8A88-806FF7409B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867F6CC3-D900-4C81-9414-DF6BBCA55B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867F6CC3-D900-4C81-9414-DF6BBCA55B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867F6CC3-D900-4C81-9414-DF6BBCA55B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867F6CC3-D900-4C81-9414-DF6BBCA55B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F75B69-818F-493C-8A88-806FF7409B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F75B69-818F-493C-8A88-806FF7409B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F75B69-818F-493C-8A88-806FF7409B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F75B69-818F-493C-8A88-806FF7409B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64FE1F62-2661-4D44-B2D1-749CA4387280}
+	EndGlobalSection
+EndGlobal
